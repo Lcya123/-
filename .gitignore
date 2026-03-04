@@ -1,0 +1,27 @@
+# 依赖文件
+__pycache__/
+*.pyc
+
+# 模型文件
+save_model/
+
+# 运行日志
+runs/
+
+# 数据集（如果太大可以排除）
+# datatset/
+
+# IDE文件
+.idea/
+.vscode/
+
+# 环境文件
+.env
+venv/
+env/
+
+# 其他
+*.swp
+*.swo
+*~
+.DS_Store
